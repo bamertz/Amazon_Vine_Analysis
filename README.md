@@ -11,6 +11,8 @@ This analysis was conducted using the following:
 * PostgreSQL/pgAdmin - To initialize the tables.
 * Python Pandas Library (Jupyter Notebook) - To conduct analysis.
 
+[Link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Improvement_v1_00.tsv.gz) to Dataset
+
 ## Results
 
 * Total Home Improvement Product Reviews Analyzed: 263,781
